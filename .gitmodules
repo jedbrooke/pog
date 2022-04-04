@@ -1,0 +1,3 @@
+[submodule "pi_spigot"]
+	path = pi_spigot
+	url = git@github.com:jedbrooke/pi_spigot.git
